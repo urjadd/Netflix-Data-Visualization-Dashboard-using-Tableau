@@ -1,5 +1,8 @@
 # Netflix-Data-Visualization-Dashboard-using-Tableau
 
+![Netflix Dashboard](https://github.com/user-attachments/assets/34e6241f-2375-4b5c-bed4-616c80e4cfd0)
+
+
 ### **Purpose:**
 The Netflix Tableau dashboard provides a detailed summary of the platform’s content library, focusing on the distribution of movies and TV shows across various dimensions like region, genre, rating, and temporal trends. Its aim is to give a comprehensive view of Netflix’s global content offerings and highlight key patterns.
 
